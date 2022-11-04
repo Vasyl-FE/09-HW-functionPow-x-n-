@@ -1,5 +1,5 @@
-const num = +prompt('Enter the number you want to multiply (power) below:');
-const multiplier = +prompt('Enter the multiplier:');
+const num = prompt('Enter the number you want to multiply (power) below:');
+const multiplier = prompt('Enter the multiplier:');
 
 alert(pow(num, multiplier));
 
