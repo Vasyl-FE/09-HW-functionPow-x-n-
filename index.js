@@ -3,7 +3,6 @@ const multiplier = +prompt('Enter the multiplier:');
 
 alert(pow(num, multiplier));
 
-
 function pow(x,n) {
     return x ** n;
 }
